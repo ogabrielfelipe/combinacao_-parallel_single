@@ -7,4 +7,4 @@
 
 ### Runtime graph 
 
-![sigle-multi_time_difference](https://user-images.githubusercontent.com/80602315/185511333-5c1ac621-5886-49e3-94b0-5217a2749c26.png) &nbsp;&nbsp; ![reason of the times](https://user-images.githubusercontent.com/80602315/185511361-3ef783d5-27fb-45f5-b9fa-bbadbcc91aab.png)
+![sigle-multi_time_difference](https://user-images.githubusercontent.com/80602315/185511333-5c1ac621-5886-49e3-94b0-5217a2749c26.png) ![reason of the times](https://user-images.githubusercontent.com/80602315/185511361-3ef783d5-27fb-45f5-b9fa-bbadbcc91aab.png)
